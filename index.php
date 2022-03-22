@@ -7,7 +7,6 @@ require "header.php";
       <ol class="carousel-indicators">
          <li data-target="#main_slider" data-slide-to="0" class="active"></li>
          <li data-target="#main_slider" data-slide-to="1"></li>
-         <li data-target="#main_slider" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
          <div class="carousel-item active">
@@ -16,14 +15,14 @@ require "header.php";
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                      <div class="carousel-caption ">
                         <h1>Bienvenue sur <strong class="color">Bet Training</strong></h1>
-                        <p>Ici vous pourrez vous entrainer à parier sur de vraie course ! Nous sommes spécialisée en sport automobile</p>
-                        <a class="btn btn-lg btn-primary" href="#" role="button">S'inscrire</a>
-                        <!--<a class="btn btn-lg btn-primary" href="about.html" role="button">About </a> -->
+                        <p>Ici vous pourrez cous confronter a vos amies en pariant sans risque !</p>
+                        <a class="btn btn-lg btn-primary" href="connexion.php" role="button">S'entrainer</a>
+                        <!-- <a class="btn btn-lg btn-primary" href="about.html" role="button">About</a> -->
                      </div>
                   </div>
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                     <div class="img-box">
-                        <figure><img src="images/versus.png" alt="Versus" /></figure>
+                     <div class="img-box ">
+                        <figure><img src="images/start.png" alt="Drapeau départ de course" /></figure>
                      </div>
                   </div>
                </div>
@@ -32,17 +31,18 @@ require "header.php";
          <div class="carousel-item">
             <div class="container">
                <div class="row marginii">
+
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                      <div class="carousel-caption ">
                         <h1>Bienvenue sur <strong class="color">Bet Training</strong></h1>
-                        <p>Ici vous pourrez cous confronter a vos amies en pariant sans risque !</p>
-                        <a class="btn btn-lg btn-primary" href="#" role="button">S'entrainer</a>
-                        <!-- <a class="btn btn-lg btn-primary" href="about.html" role="button">About</a> -->
+                        <p>Ici vous pourrez vous entrainer à parier sur de vraie course ! Nous sommes spécialisée en sport automobile</p>
+                        <a class="btn btn-lg btn-primary" href="connexion.php" role="button">S'inscrire</a>
+                        <!--<a class="btn btn-lg btn-primary" href="about.html" role="button">About </a> -->
                      </div>
                   </div>
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                     <div class="img-box ">
-                        <figure><img src="images/start.png" alt="Drapeau départ de course" /></figure>
+                     <div class="img-box">
+                        <figure><img src="images/versus.png" alt="Versus" /></figure>
                      </div>
                   </div>
                </div>
@@ -88,15 +88,15 @@ require "header.php";
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                      <div class="carousel-sporrt_text ">
                         <h1 class="sporrt_text">Former vous !</h1>
-                        <p class="lorem_text">salusalusalusalsualusa</p>
+                        <p class="lorem_text">Comment bien parier ? C’est certainement la question principale que se pose la plupart des personnes attirées par les paris sportifs, que ce soit en ligne ou non. Si la chance tient un rôle important dans cette activité, force est de constater qu’il est également possible d’optimiser ses chances de réussite. De quelle manière ? En faisant appel à un formateur spécialisé pour se former et être accompagné dans les diverses étapes du pari sportif.</p>
                         <div class="btn_main">
-                           <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                           <a class="btn btn-lg btn-primary" href="#" role="button">En savoir plus...</a>
                         </div>
                      </div>
                   </div>
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                      <div class="img-box">
-                        <figure><img src="images/child-image.png" style="max-width: 100%; border: 15px solid #fff;" /></figure>
+                        <figure><img src="images/logo.png" style="max-width: 100%; border: 15px solid #fff;" /></figure>
                      </div>
                   </div>
                </div>
@@ -108,15 +108,15 @@ require "header.php";
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                      <div class="carousel-sporrt_text ">
                         <h1 class="sporrt_text">Jouer </h1>
-                        <p class="lorem_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believableThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</p>
+                        <p class="lorem_text">Jouer gratuitement à chaque course, faite vos probabilités. Parier et confronter vos gains à vos amies pour devenir une référence dans le domaines.</p>
                         <div class="btn_main">
-                           <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                           <a class="btn btn-lg btn-primary" href="#" role="button">En savoir plus...</a>
                         </div>
                      </div>
                   </div>
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                      <div class="img-box ">
-                        <figure><img src="images/child-image.png" style="max-width: 100%; border: 15px solid #fff;" /></figure>
+                        <figure><img src="images/logo.png" style="max-width: 100%; border: 15px solid #fff;" /></figure>
                      </div>
                   </div>
                </div>
@@ -128,15 +128,15 @@ require "header.php";
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                      <div class="carousel-sporrt_text ">
                         <h1 class="sporrt_text">Gagner</h1>
-                        <p class="lorem_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believableThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</p>
+                        <p class="lorem_text">En jouant vous aller perdre, c'est le jeux mais ici vous allez pouvoir optimiser vos chance de gagner. Eviter les erreurs courantes ne pas prendre la confiance trop vite toute en gardant confiance..</p>
                         <div class="btn_main">
-                           <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                           <a class="btn btn-lg btn-primary" href="#" role="button">En savoir plus...</a>
                         </div>
                      </div>
                   </div>
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                      <div class="img-box">
-                        <figure><img src="images/child-image.png" style="max-width: 100%; border: 15px solid #fff;" /></figure>
+                        <figure><img src="images/logo.png" style="max-width: 100%; border: 15px solid #fff;" /></figure>
                      </div>
                   </div>
                </div>
@@ -154,7 +154,7 @@ require "header.php";
          <div class="col-md-12 ">
             <div class="titlepage">
                <h2> Nos formations</h2>
-               <span style="text-align: center;">available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</span>
+               <span style="text-align: center;">Sur cette page tu vas avoir accès aux connaissances qui sont les bases à maîtriser pour réussir ses paris sportifs. Sans ses basiques, tu vas faire des erreurs dans la réalisation de tes pronostics et ainsi perdre de l’argent. Dans ce premier module de formation paris sportifs, tu vas apprendre comment te construire un capital pour tes paris sportifs, te forger un bon mental et connaitre quelques détails qui vont faire la différence dans tes pronostics.</span>
             </div>
          </div>
       </div>
@@ -178,9 +178,9 @@ require "header.php";
                <div class="carousel-inner">
                   <div class="carousel-item active">
                      <div class="titlepage">
-                        <div class="john">
-                           <div class="john_image"><img src="images/john-image.png" style="max-width: 100%;"></div>
-                           <div class="john_text">Les formations sur le mental et la psychologie du parieur<span style="color: #fffcf4;"></span></div>
+                        <div class="formations">
+                           <div class="Imgformation"><img src="images/Formation-1.png" style="max-width: 100%;"></div>
+                           <div class="formations_text">Les formations sur le mental et la psychologie du parieur<span style="color: #fffcf4;"></span></div>
                            <p class="lorem_ipsum_text">Le mental c’est 80% des résultats. Quand on maîtrise ses émotions, on devient indestructible ! Cet est négligé par de nombreux parieurs et c’est pourtant celle qui peut apporter le plus de résultats sur le long terme.</p>
                            <div class="icon_image"><img src="images/icon-1.png"></div>
                         </div>
@@ -188,9 +188,9 @@ require "header.php";
                   </div>
                   <div class="carousel-item">
                      <div class="titlepage">
-                        <div class="john">
-                           <div class="john_image"><img src="images/john-image.png" style="max-width: 100%;"></div>
-                           <div class="john_text">Les formations sur le coté statistique des paris sportifs<span style="color: #fffcf4;"></span></div>
+                        <div class="formations">
+                           <div class="Imgformation"><img src="images/Formation-2.png" style="max-width: 100%;"></div>
+                           <div class="formations_text">Les formations sur le coté statistique des paris sportifs<span style="color: #fffcf4;"></span></div>
                            <p class="lorem_ipsum_text">Les statistiques et les paris sportifs sont étroitement liées, voire même indissociables… Voici une série de formations pour les amoureux des chiffres et les utiliser au mieux dans les paris sportifs. Aussi bien pour parier que pour tester ou mettre au point des méthodes.</p>
                            <div class="icon_image"><img src="images/icon-1.png"></div>
                         </div>
@@ -198,9 +198,9 @@ require "header.php";
                   </div>
                   <div class="carousel-item">
                      <div class="titlepage">
-                        <div class="john">
-                           <div class="john_image"><img src="images/john-image.png" style="max-width: 100%;"></div>
-                           <div class="john_text">Le coaching individuel : le meilleur raccourci pour des résultats rapides<span style="color: #fffcf4;"></span></div>
+                        <div class="formations">
+                           <div class="Imgformation"><img src="images/Formation-3.png" style="max-width: 100%;"></div>
+                           <div class="formations_text">Le coaching individuel : le meilleur raccourci pour des résultats rapides<span style="color: #fffcf4;"></span></div>
                            <p class="lorem_ipsum_text">On peut parfois faire des erreurs ou traîner un problème pendant des mois, des années mêmes. Ensemble on va les identifier et mettre des actions correctives en place. Pour ne plus les reproduire car elles peuvent coûter très cher au long terme et enfin atteindre tes objectifs. Le mental c’est 80% des résultats. Quand on maîtrise ses émotions, on devient indestructible ! Cet est négligé par de nombreux parieurs et c’est pourtant celle qui peut apporter le plus de résultats sur le long terme.</p>
                            <div class="icon_image"><img src="images/icon-1.png"></div>
                         </div>
@@ -263,7 +263,7 @@ require "header.php";
                      <input type="text" class="form-control form-control-sm" placeholder="Message" name="text3">
                   </div>
                   <div class="submit_btn">
-                     <button type="submit" class="btn btn-primary" style="background: #081b30; color: #fff; padding: 11px;">Send</button>
+                     <button type="submit" class="btn btn-primary" style="background: #081b30; color: #fff; padding: 11px;">Envoyer</button>
                   </div>
                </form>
             </div>
@@ -274,14 +274,14 @@ require "header.php";
             <div class="row">
                <div class="col-md-4">
                   <h1 style="color: #ffffff; ">Newsletter</h1>
-                  <p class="long_text">It is a long established fact that a reader will be distracted a</p>
+                  <p class="long_text">Tout ne fait que commencer ! Abonnée vous pour avoir des informations sur l'avancement du projet </p>
                </div>
                <div class="col-md-8">
                   <div class="email_text">
                      <div class="input-group mb-3">
-                        <input style="border-bottom-left-radius: 20px !important; border-top-left-radius: 20px !important;" type="text" class="form-control" placeholder="Enter your email">
+                        <input style="border-bottom-left-radius: 20px !important; border-top-left-radius: 20px !important;" type="text" class="form-control" placeholder="Entre ton mail">
                         <div class="input-group-append">
-                           <button style="border-top-right-radius: 20px !important; border-bottom-right-radius: 20px !important; color: #fff; padding-bottom: 10px; padding-top: 10px;" class="btn btn-primary" type="Subscribe">Subscribe</button>
+                           <button style="border-top-right-radius: 20px !important; border-bottom-right-radius: 20px !important; color: #fff; padding-bottom: 10px; padding-top: 10px;" class="btn btn-primary" type="Subscribe">S'inscrire</button>
                         </div>
                      </div>
                   </div>

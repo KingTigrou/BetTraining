@@ -5,11 +5,11 @@
    <div class="menu_main">
       <div class="menu_text">
          <ul>
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="testmonial.html">Testmonial</a></li>
-            <li><a href="clients.html">Shop</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
+            <li class="last"><a href="#"><img src="images/search_icon.png" alt="icon" /></a></li>
+            <li> <a href="index.php">Jouer !</a> </li>
+            <li><a href="formations.php">Nos formations</a></li>
+            <li><a href="contact.php">Nous contacter</a></li>
+            <li><a href="connexion.php">Connexion / Inscription</a></li>
          </ul>
       </div>
    </div>
